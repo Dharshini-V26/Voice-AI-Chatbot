@@ -1,4 +1,4 @@
-Setup Instructions 
+## Setup Instructions 
 1) Requirements
 
 Python 3.8 or above, Microphone & Internet connection
@@ -32,3 +32,5 @@ python chatbot.py
 5) Stop Program
 
 Say: exit Or press: Ctrl + C
+
+<img width="1602" height="1026" alt="image" src="https://github.com/user-attachments/assets/96ba476e-ff2b-4e0b-93e8-310cbfd082d9" />
